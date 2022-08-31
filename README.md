@@ -96,7 +96,4 @@ export default class App extends Component {
     }
 }
 
-```
-<img src="./images/1574120354357.jpg" alt="1574120354357.jpg"  /> <img src="./images/1574120350599.jpg" alt="1574120350599.jpg"  />
-## Licence
 [Licence](https://github.com/EspressifApp/EsptouchForIOS/blob/master/ESPRESSIF_MIT_LICENSE_V1.LICENSE)
